@@ -1,0 +1,2 @@
+[console_scripts]
+weather-rag = weather_rag.app:main
